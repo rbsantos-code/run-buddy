@@ -12,3 +12,6 @@ https://github.com/rbsantos-code/run-buddy.git
 
 ## Contribution
 Made with ♥️ by Richard Brian
+
+
+### &copy2019 Run Buddy, Inc
