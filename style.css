@@ -145,7 +145,7 @@ section {
 
 /* Form style Start */
 .hero-form {
-    background-color: #fce138;
+    background-color: rgba(252, 225, 56, 0.8);
     padding: 20px;
     color: #024e76;
     border-style: solid;
@@ -154,8 +154,7 @@ section {
     border-radius: 15px;
     width: 40%;
     margin: 3.5%;
-    box-shadow: 0 0 10px rbga(0, 0, 0.5);
-    
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
 .hero-form h3 {
@@ -176,7 +175,7 @@ section {
     width: 100%;
     margin-bottom: 15px;
     border-radius: 10px;
-    background-color: rbga(255,255,255, 0.75);
+    background-color: rgba(255,255,255, 0.75);
 }
 
 .form-input:focus {
@@ -273,9 +272,10 @@ section {
 .checkbox-wrapper input:checked + label::after, .radio-wrapper input:checked + label::after {
     content:"";
 }
-
 /* Form style end */
 
+
+/* Content styling start */
 
 .section-title {
     font-size: 48px;
@@ -458,7 +458,7 @@ section {
     margin-bottom: 15px;
     margin-top: 5px;
     border-radius: 10px;
-    background-color: rbga(255,255,255, 0.75);
+    background-color: rgb(255,255,255, 0.75);
 }
 
 .contact-form input:focus, .contact-form textarea:focus {
