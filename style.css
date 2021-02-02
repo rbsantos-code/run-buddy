@@ -36,7 +36,7 @@ header {
     background-image: url("../run-buddy/assets/flipped-hero-image.jpg");
     background-size: cover;
     background-attachment: fixed;
-    background-position: 80%;
+    background-position: 100%;
     z-index: 9999;
     
 }
